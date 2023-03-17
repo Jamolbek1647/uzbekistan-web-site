@@ -29,6 +29,7 @@ body{
 
 .hero{
     background-color: skyblue;
+    
 }
 
 .hero-heading{
@@ -67,7 +68,7 @@ body{
 /* VILOYATLAR */
 .viloyatlar-list{
     list-style: none;
-
+    flex: auto;
 }
 
 .viloyatlar-link{
